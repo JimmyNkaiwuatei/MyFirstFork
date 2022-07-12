@@ -1,10 +1,10 @@
 
-# Name: Caleb Kibet
-![](https://pbs.twimg.com/profile_images/1131946278621995010/FwrMhyJg_400x400.jpg)
+# Name: Jimmy Nkaiwuatei
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJSD81TtVRCDF0o2ImqbOTSkwGUa1BtrRxA&usqp=CAU)
 
-**University:** Rhodes University
+**University:** Jomo Kenyatta University of Agriculture and Technology
 
-**Degree:** PhD Bioinformatics
+**Degree:** BSc. Biochemistry
 
-**Fun fact:** I love Hiking. 
+**Fun fact:** playing football
 
